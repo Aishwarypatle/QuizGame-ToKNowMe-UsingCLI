@@ -66,7 +66,7 @@ function play() {
   }
 }
 function showScores() {
-  console.log("YAY! You SCORED: ", score);
+  console.log("So yur final score is ", score);
 
   console.log("Chack the list of Top Scorer , If you have scored more ,Tell me I'll add your name ");
 
